@@ -1,0 +1,12 @@
+let strThree = document.getElementById('string-3');
+console.log(strThree.innerText);
+let strFive = document.getElementById('string-5');
+console.log(strFive.innerText);
+let strTwo = document.getElementById('string-2');
+console.log(strTwo.innerText);
+let strSix = document.getElementById('string-6');
+console.log(strSix.innerText);
+let strFour = document.getElementById('string-4');
+console.log(strFour.innerText);
+let strOne = document.getElementById('string-1');
+console.log(strOne.innerText);
